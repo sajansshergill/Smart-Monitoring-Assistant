@@ -19,12 +19,14 @@ Develop a Python-based assistant to detect anomalies in manufacturing IT systems
 
 3. Anomaly Detection Models
 - choose 1–2 of these:
+  
   i. Isolation Forest (unsupervised, robust to noise)
   ii. Prophet (trend & seasonality-aware)
   iii. LSTM (for sequence anomaly modeling, optional for advanced)
 
 4. Alerting System
 - Send alerts via:
+  
   i. Slack webhook (using requests)
   ii. or Email (via smtplib or yagmail)
 
