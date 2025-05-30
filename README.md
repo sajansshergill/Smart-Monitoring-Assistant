@@ -35,7 +35,7 @@ Develop a Python-based assistant to detect anomalies in manufacturing IT systems
 
 5. Dashboard & Visualization
 - Real-time or batch plots using:
-- 
+  
   i. matplotlib, seaborn, plotly
   
   ii. Metrics: anomaly scores, thresholds, time of event
